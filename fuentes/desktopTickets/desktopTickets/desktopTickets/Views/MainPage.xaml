@@ -1,0 +1,114 @@
+﻿<Window x:Class="desktopTickets.Views.MainPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:desktopTickets.Views"
+        xmlns:glob="clr-namespace:System.Globalization;assembly=mscorlib"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow" 
+        WindowState="Maximized"
+        Title="Tickets" ResizeMode="NoResize" Background="#FF8C03">
+
+ 
+
+    <Grid>
+        <!-- Sección de Filtros -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" >
+            <TextBlock Text="Filtrar por estado: " VerticalAlignment="Center" Margin="5"/>
+            <ComboBox ItemsSource="{Binding ListaEstados}" SelectedItem="{Binding FiltroEstado}" Width="150"/>
+
+            <TextBlock Text="Fecha de Inicio: " VerticalAlignment="Center" Margin="5"/>
+            <DatePicker SelectedDate="{Binding FechaInicio}" Width="150" />
+
+            <TextBlock Text="Fecha de Fin: " VerticalAlignment="Center" Margin="5"/>
+            <DatePicker SelectedDate="{Binding FechaFin}" Width="150" />
+
+            <Button Content="Filtrar" Command="{Binding FiltrarCommand}" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <!-- ListView para Avisos -->
+        <ListView ItemsSource="{Binding Avisos}" SelectedItem="{Binding SelectedAviso}" Margin="10,60,10,80">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding ID}" />
+                    <GridViewColumn Header="Fecha" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding FECHA, StringFormat=dd/MM/yyyy}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Estado" DisplayMemberBinding="{Binding ESTADO}" />
+                    <GridViewColumn Header="Usuario Solicitante" DisplayMemberBinding="{Binding USUARIO_SOLICITANTE}" />
+                    <GridViewColumn Header="Tipo de Aviso" DisplayMemberBinding="{Binding TIPO_AVISO}" />
+                    <GridViewColumn Header="Tipo de Aviso" DisplayMemberBinding="{Binding DESCRIPCION_TIPO_AVISO}" />
+                    <GridViewColumn Header="Origen del Aviso" DisplayMemberBinding="{Binding ORIGEN_AVISO}" />
+                    <GridViewColumn Header="Origen del Aviso" DisplayMemberBinding="{Binding ORIGEN_AVISO_DESCRIPCION}" />
+                    <GridViewColumn Header="Descripcion" DisplayMemberBinding="{Binding OBSERVACIONES}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Panel de Información del Usuario -->
+        <Border Background="White" CornerRadius="5" Padding="10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Margin="10">
+            <StackPanel x:Name="UserInfoPanel">
+                <Image Source="pack://application:,,,/imagenes/nombreDeTuImagen.webp" Width="50" Height="50"/>
+                <TextBlock Text="{Binding UserInfo.NOMBRE}" FontWeight="Bold" FontSize="16" Margin="0,10,0,10"/>
+                <StackPanel x:Name="AdditionalUserInfo" Opacity="0" Visibility="Collapsed">
+                    <TextBlock Text="{Binding UserInfo.APELLIDOS}" FontStyle="Italic" Margin="0,5"/>
+                    <TextBlock Text="{Binding UserInfo.CENTRO}" Margin="0,5"/>
+                    <TextBlock Text="{Binding UserInfo.PERFIL}" Margin="0,5"/>
+                </StackPanel>
+                <!-- Botón para modificar datos del usuario -->
+                <Button Content="Modificar Datos" Command="{Binding ModifyUserInfoCommand}" Margin="0,10,0,0"/>
+            </StackPanel>
+
+            <Border.Triggers>
+                <EventTrigger RoutedEvent="MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="AdditionalUserInfo" Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.2"/>
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="AdditionalUserInfo" Storyboard.TargetProperty="Visibility">
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <Visibility>Visible</Visibility>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                            </ObjectAnimationUsingKeyFrames>
+                            <DoubleAnimation Storyboard.TargetProperty="Width" From="50" To="250" Duration="0:0:0.2"/>
+                            <DoubleAnimation Storyboard.TargetProperty="Height" From="50" To="250" Duration="0:0:0.2"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="AdditionalUserInfo" Storyboard.TargetProperty="Opacity" From="1" To="0" Duration="0:0:0.2"/>
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="AdditionalUserInfo" Storyboard.TargetProperty="Visibility" BeginTime="0:0:0.2">
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <Visibility>Collapsed</Visibility>
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                            </ObjectAnimationUsingKeyFrames>
+                            <DoubleAnimation Storyboard.TargetProperty="Width" From="250" To="50" Duration="0:0:0.2"/>
+                            <DoubleAnimation Storyboard.TargetProperty="Height" From="250" To="50" Duration="0:0:0.2"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Border.Triggers>
+        </Border>
+
+        <!-- Cambiar estado del aviso y Borrar aviso -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <TextBlock Text="Cambiar estado a: " VerticalAlignment="Center" Margin="5"/>
+            <ComboBox ItemsSource="{Binding ListaEstados}" SelectedItem="{Binding EstadoSeleccionado}" Width="150"/>
+            <Button Content="Aplicar" Command="{Binding UpdateStatusCommand}" Margin="10,0,0,0"/>
+            <Button Content="Borrar" Command="{Binding DeleteAvisoCommand}" Margin="10,0,0,0"/>
+            <Button Content="Revisar" Command="{Binding RevisarCommand}" Margin="10,0,0,0"/>
+            <Button Content="Crear" Command="{Binding CrearCommand}" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

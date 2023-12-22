@@ -1,0 +1,215 @@
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.cache
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.lref
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.exe
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll.config
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.deps.json
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.runtimeconfig.json
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.g.resources
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfo.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CopyComplete
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\refint\desktopTickets.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.genruntimeconfig.cache
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\ref\desktopTickets.dll
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.baml
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.g.cs
+C:\Users\jose\Documents\proyecto final\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.exe
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll.config
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.deps.json
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.runtimeconfig.json
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.lref
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.baml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.g.resources
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfo.cs
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CopyComplete
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\refint\desktopTickets.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.genruntimeconfig.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\ref\desktopTickets.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.exe
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll.config
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.deps.json
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.runtimeconfig.json
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.lref
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.baml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.g.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfoInputs.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfo.cs
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CopyComplete
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\refint\desktopTickets.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.genruntimeconfig.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\ref\desktopTickets.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.exe
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll.config
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.deps.json
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.runtimeconfig.json
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.lref
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.baml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.g.resources
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfo.cs
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CopyComplete
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\refint\desktopTickets.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.genruntimeconfig.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\ref\desktopTickets.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.exe
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll.config
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.deps.json
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.runtimeconfig.json
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\AdminPage.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\ModificarUsuario.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.cache
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets_MarkupCompile.lref
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MainPage.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\MenuAdmin.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\Persona.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\Views\RevisarTicketWindow.baml
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.g.resources
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.AssemblyInfo.cs
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.csproj.CopyComplete
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\refint\desktopTickets.dll
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.pdb
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\desktopTickets.genruntimeconfig.cache
+C:\Users\Jose\Desktop\NUEVA ENT\HelpMe\HelpMe\fuentes\desktopTickets\desktopTickets\desktopTickets\obj\Debug\net6.0-windows\ref\desktopTickets.dll

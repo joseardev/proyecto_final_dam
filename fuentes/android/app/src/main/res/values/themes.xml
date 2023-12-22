@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/naranja</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <!-- otros atributos del tema si es necesario -->
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+    <style name="OrangeButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/naranja</item>
+        <!-- otros atributos del botón si es necesario -->
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\bin\Debug\TareaProyecto.exe.config
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\bin\Debug\TareaProyecto.exe
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\bin\Debug\TareaProyecto.pdb
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\bin\Debug\Dapper.dll
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\bin\Debug\Dapper.xml
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\Tarea04ServiciosProcesos.MyServicio.resources
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\Tarea04ServiciosProcesos.ProjectInstaller.resources
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.csproj.CopyComplete
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.exe
+C:\Users\jose\Desktop\HelpMe\HelpMe\fuentes\servicio\obj\Debug\TareaProyecto.pdb

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelpMe!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urgente">Urgente</string>
+    <string name="volver_atr_s">Volver Atrás</string>
+    <string name="volver">Volver</string>
+    <string-array name="tipo_aviso_array">
+        <item>Incidencia</item>
+        <item>Cambio</item>
+    </string-array>
+</resources>
+
+

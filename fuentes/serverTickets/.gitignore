@@ -1,0 +1,45 @@
+# Archivos compilados
+*.class
+*.aar
+*.jar
+*.dex
+
+# Directorio de compilación
+/build
+
+# Directorios generados por el sistema
+/.idea/
+/.gradle/
+
+# Archivos de configuración local
+local.properties
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.swp
+*.bak
+*.tlog
+
+# Archivos OS-specific
+.DS_Store
+Thumbs.db
+
+# Archivos de captura de Android Studio
+captured_*.png
+
+# Excluir el archivo de firma de la app
+release-signing.properties
+
+# Otros
+*.apk
+*.ap_
+
+# Proguard
+proguard-rules.pro
+proguard-rules.txt
+
+# Archivos de configuración de Google Services (puede contener información sensible)
+# Descomenta la siguiente línea si no deseas incluirlo
+#google-services.json
+

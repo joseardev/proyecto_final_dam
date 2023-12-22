@@ -1,0 +1,89 @@
+C:\Users\danhm\Desktop\ServidorApp\bin\Debug\ServidorApp.exe.config
+C:\Users\danhm\Desktop\ServidorApp\bin\Debug\ServidorApp.exe
+C:\Users\danhm\Desktop\ServidorApp\bin\Debug\ServidorApp.pdb
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.Form1.resources
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.exe
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.pdb
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.Form2.resources
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\bin\Debug\ServidorApp.exe.config
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\bin\Debug\ServidorApp.exe
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\bin\Debug\ServidorApp.pdb
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.Form1.resources
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.Form2.resources
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.exe
+C:\Users\danhm\Desktop\Servidor Cliente\ServidorApp\obj\Debug\ServidorApp.pdb
+C:\Users\danhm\Desktop\ServidorApp\obj\Debug\ServidorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\ServidorApp.exe.config
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\ServidorApp.exe
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\ServidorApp.pdb
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.Form1.resources
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.Form2.resources
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.exe
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.pdb
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\Dapper.dll
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\Dapper.xml
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\obj\Debug\ServidorApp.csproj.CopyComplete
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose\Downloads\ServidorEscritorio (1)\ServidorApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\ServidorApp.exe.config
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\ServidorApp.exe
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\ServidorApp.pdb
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\Dapper.dll
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\Dapper.xml
+C:\Users\jose\Documents\proyecto final\serverTickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.Form1.resources
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.Form2.resources
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.csproj.CopyComplete
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.exe
+C:\Users\jose\Documents\proyecto final\serverTickets\obj\Debug\ServidorApp.pdb
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\ServidorApp.exe.config
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\ServidorApp.exe
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\ServidorApp.pdb
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\Dapper.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\Dapper.xml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.Form1.resources
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.Form2.resources
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.CopyComplete
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.exe
+C:\Users\jose\Desktop\Entrega Proyecto\fuentes\serverTickets\obj\Debug\ServidorApp.pdb
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\ServidorApp.exe.config
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\ServidorApp.exe
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\ServidorApp.pdb
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\Dapper.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\Dapper.xml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.Form1.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.Form2.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.Properties.Resources.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.GenerateResource.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.csproj.CopyComplete
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.exe
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Debug\ServidorApp.pdb

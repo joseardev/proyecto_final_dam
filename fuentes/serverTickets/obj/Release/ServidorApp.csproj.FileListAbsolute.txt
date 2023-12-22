@@ -1,0 +1,17 @@
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\ServidorApp.exe.config
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\ServidorApp.exe
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\ServidorApp.pdb
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\Dapper.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\Dapper.xml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.Form1.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.Form2.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.Properties.Resources.resources
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.csproj.GenerateResource.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.csproj.CopyComplete
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.exe
+C:\Users\Jose\Downloads\HelpMe\HelpMe\fuentes\serverTickets\obj\Release\ServidorApp.pdb

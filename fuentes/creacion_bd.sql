@@ -1,0 +1,169 @@
+USE [master]
+GO
+
+/****** Object:  Database [Tickets]    Script Date: 11/12/2023 20:02:27 ******/
+CREATE DATABASE [Tickets]
+GO
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_AVISOS_CAB]    Script Date: 01/12/2023 22:06:12 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_AVISOS_CAB]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_AVISOS_CAB]
+GO
+
+/****** Object:  Table [dbo].[TK_AVISOS_CAB]    Script Date: 01/12/2023 22:06:12 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_AVISOS_CAB](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[FECHA] [date] NULL,
+	[ESTADO] [varchar](255) NULL,
+	[USUARIO_SOLICITANTE] [varchar](255) NULL,
+	[TIPO_AVISO] [varchar](255) NULL,
+	[ORIGEN_AVISO] [varchar](255) NULL,
+	[urgente] [bit] NULL,
+	[observaciones] [varchar](255) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_AVISOS_LIN]    Script Date: 01/12/2023 22:06:29 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_AVISOS_LIN]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_AVISOS_LIN]
+GO
+
+/****** Object:  Table [dbo].[TK_AVISOS_LIN]    Script Date: 01/12/2023 22:06:29 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_AVISOS_LIN](
+	[ID] [int] NULL,
+	[NUMERO_LINEA] [int] IDENTITY(1,1) NOT NULL,
+	[DETALLES] [text] NULL,
+	[ESTADO] [varchar](50) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_IMAGENES_AVISOS]    Script Date: 01/12/2023 22:06:43 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_IMAGENES_AVISOS]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_IMAGENES_AVISOS]
+GO
+
+/****** Object:  Table [dbo].[TK_IMAGENES_AVISOS]    Script Date: 01/12/2023 22:06:43 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_IMAGENES_AVISOS](
+	[ID_AVISO_CAB] [int] NULL,
+	[NUMERO_LINEA] [int] NULL,
+	[IMAGEN] [varbinary](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_TIPOS_AVISOS]    Script Date: 01/12/2023 22:07:03 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_TIPOS_AVISOS]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_TIPOS_AVISOS]
+GO
+
+/****** Object:  Table [dbo].[TK_TIPOS_AVISOS]    Script Date: 01/12/2023 22:07:03 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_TIPOS_AVISOS](
+	[TIPO] [varchar](255) NOT NULL,
+	[DESCRIPCION] [text] NULL,
+	[CENTRO] [varchar](255) NULL,
+	[ESTADO] [varchar](255) NULL,
+	[PRIORIDAD_RECOMENDADA] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[TIPO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_TIPOS_ORIGEN]    Script Date: 01/12/2023 22:07:15 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_TIPOS_ORIGEN]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_TIPOS_ORIGEN]
+GO
+
+/****** Object:  Table [dbo].[TK_TIPOS_ORIGEN]    Script Date: 01/12/2023 22:07:15 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_TIPOS_ORIGEN](
+	[ORIGEN] [varchar](255) NOT NULL,
+	[DESCRIPCION] [text] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ORIGEN] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+USE [Tickets]
+GO
+
+/****** Object:  Table [dbo].[TK_USUARIOS]    Script Date: 01/12/2023 22:07:23 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TK_USUARIOS]') AND type in (N'U'))
+DROP TABLE [dbo].[TK_USUARIOS]
+GO
+
+/****** Object:  Table [dbo].[TK_USUARIOS]    Script Date: 01/12/2023 22:07:23 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TK_USUARIOS](
+	[USUARIO] [varchar](255) NOT NULL,
+	[PASSWORD] [varchar](255) NULL,
+	[PERFIL] [varchar](255) NULL,
+	[NOMBRE] [varchar](255) NULL,
+	[APELLIDOS] [varchar](255) NULL,
+	[CENTRO] [varchar](255) NULL,
+	[PERMISOS_CREAR_TK] [bit] NULL,
+	[PERMISOS_MODIFICAR_TK] [bit] NULL,
+	[PERMISOS_BORRAR_TK] [bit] NULL,
+	[mail] [varchar](255) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[USUARIO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".tickets.ui.view.CrearTickestFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Detalles del Ticket -->
+        <EditText
+            android:id="@+id/etDetalles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="DETALLES"
+            android:inputType="textMultiLine" />
+
+        <!-- Tipo de Aviso con Spinner para elegir entre Incidencia y Cambio -->
+        <Spinner
+            android:id="@+id/spTipoAviso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/tipo_aviso_array" /> <!-- Asegúrate de definir el array en res/values/strings.xml -->
+        <!-- CheckBox para marcar el ticket como urgente -->
+        <CheckBox
+            android:id="@+id/cbUrgente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/urgente" />
+        <!-- Botón para Crear el Ticket -->
+        <Button
+            android:id="@+id/creartickets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Crear Ticket" />
+        <!-- Botón para Volver Atrás -->
+        <Button
+            android:id="@+id/btnVolverAtras"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volver_atr_s"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+</ScrollView>

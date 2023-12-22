@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/crearTickestFragment"
+        android:name="com.tarea3.myapplication.tickets.ui.view.CrearTickestFragment"
+        android:label="fragment_crear_tickest"
+        tools:layout="@layout/fragment_crear_tickest" />
+    <fragment
+        android:id="@+id/modificarTicketFragment"
+        android:name="com.tarea3.myapplication.tickets.ui.view.ModificarTicketFragment"
+        android:label="fragment_modificar_ticket"
+        tools:layout="@layout/fragment_modificar_ticket" />
+    <fragment
+        android:id="@+id/listaTicketsFragment"
+        android:name="com.tarea3.myapplication.tickets.ui.view.ListaTicketsFragment"
+        android:label="fragment_lista_tickets"
+        tools:layout="@layout/fragment_lista_tickets" >
+        <action
+            android:id="@+id/action_listaTicketsFragment_to_addTicketFragment"
+            app:destination="@id/addTicketFragment" />
+        <action
+            android:id="@+id/action_listaTicketsFragment_to_crearTickestFragment"
+            app:destination="@id/crearTickestFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.tarea3.myapplication.tickets.ui.view.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/addTicketFragment"
+        android:name="com.tarea3.myapplication.tickets.ui.view.AddTicketFragment"
+        android:label="fragment_add_ticket"
+        tools:layout="@layout/fragment_add_ticket" />
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.tarea3.myapplication.tickets.ui.view.SplashFragment"
+        android:label="SplashFragment" >
+        <action
+            android:id="@+id/action_splashFragment_to_listaTicketsFragment"
+            app:destination="@id/listaTicketsFragment" />
+    </fragment>
+</navigation>

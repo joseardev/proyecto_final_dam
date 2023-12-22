@@ -1,0 +1,29 @@
+﻿<Window x:Class="desktopTickets.Views.MenuAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:desktopTickets.Views"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow" 
+        WindowState="Maximized"
+        Title="Menu" ResizeMode="NoResize" Background="#FF8C03">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20" Background="White" >
+            <Button Width="150" Height="150" Margin="5" Click="AdminPage_Click" Background="White" Foreground="#FF8C03" >
+            <StackPanel Orientation="Horizontal">
+                    <Image Source="pack://application:,,,/imagenes\nombreDeTuImagen.webp" Width="40" Height="40"/>
+                    <TextBlock Text="Usuarios" Margin="5,0,0,0" FontSize="14" FontWeight="Bold"/>
+            </StackPanel>
+        </Button>
+            <Button Width="150" Margin="5" Height="150" Click="MainPage_Click" Background="White" Foreground="#FF8C03">
+            <StackPanel Orientation="Horizontal">
+                    <Image Source="pack://application:,,,/imagenes/logo.png" Width="40" Height="40"/>
+                    <TextBlock Text="Tickets" Margin="5,0,0,0" FontSize="14" FontWeight="Bold"/>
+            </StackPanel>
+        </Button>
+    </StackPanel>
+    </Grid>
+
+
+</Window>
